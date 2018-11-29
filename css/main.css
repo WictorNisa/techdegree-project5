@@ -30,6 +30,7 @@
   font-size: 1em;
 }
 
-.search-bar:focus {
-  color: grey;
+input:focus {
+  outline: none;
+  border: 1px solid grey;
 }
