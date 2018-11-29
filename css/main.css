@@ -1,0 +1,16 @@
+
+.main-wrapper {
+  max-width: 1200px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+
+.inner-wrapper {
+  max-width: 1000px;
+  width: 90%;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 40px 40px;
+  grid-template-columns: repeat(auto-fit,minmax(200px, 1fr));
+}
