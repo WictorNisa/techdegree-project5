@@ -10,6 +10,7 @@
   max-width: 1000px;
   width: 90%;
   margin: 0 auto;
+  margin-bottom: 3em;
   display: grid;
   place-items: center;
   grid-gap: 38px 38px;
@@ -33,4 +34,8 @@
 input:focus {
   outline: none;
   border: 1px solid grey;
+}
+
+span p {
+  display: none;
 }
