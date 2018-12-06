@@ -20,10 +20,6 @@
 // }
 $(document).ready(function() {
 $('#search').hideseek({
-highlight: true 
+highlight: true
 });
-});
-
-$('#search').hideseek({
-  nodata: 'No results found, try again'
 });

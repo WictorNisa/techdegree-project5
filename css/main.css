@@ -39,3 +39,17 @@ input:focus {
 span p {
   display: none;
 }
+
+footer {
+  max-width: 1000px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+footer p {
+  font-family: 'Alegreya', serif;
+  font-size: 1.4em;
+  color: grey;
+  text-align: center;
+  margin-bottom: 1.3em;
+}
